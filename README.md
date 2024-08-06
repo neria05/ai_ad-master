@@ -11,3 +11,5 @@ NOTES:
 - add ability to change the user number & AI number
 - integrate with image generation ability (then simple send the response back to user whatsapp no.)
 - make it more according to client's requirement
+
+- tutorial https://www.youtube.com/watch?v=KwuKmX5emkM
